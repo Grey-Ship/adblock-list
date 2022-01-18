@@ -1,5 +1,8 @@
-! Created by Wayne Scicluna
-! Created on: 18/01/2022
-! Updated on: 18/01/2022
+[Adblock Plus 2.0]
+! Version: 202201181900
+! Title: Wayne-yts
+! Last modified: 18 Jan 2022 19:00 UTC
+! Expires: 1 days (update frequency)
+!-----------------------General advert blocking filters-----------------------!
 
 munori.com
