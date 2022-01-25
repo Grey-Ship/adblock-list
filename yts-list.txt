@@ -5,3 +5,4 @@
 ! Expires: 1 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
 munori.com
+downloadoperagx.com
