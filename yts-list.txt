@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 202201181900
-! Title: Wayne-yts
+! Version: 202202241847
+! Title: Wayne-AdBlockList
 ! Last modified: 18 Jan 2022 19:00 UTC
 ! Expires: 1 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
