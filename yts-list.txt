@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 202203042131
+! Version: 202203122120
 ! Title: Wayne-AdBlockList
-! Last modified: 18 Jan 2022 19:00 UTC
+! Last modified: 12 Mar 2022 21:20 UTC
 ! Expires: 1 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
 munori.com
 downloadoperagx.com
 suburt.com
+johalf.com
